@@ -1,2 +1,2 @@
 # jita
-way of my practice
+my practice path
