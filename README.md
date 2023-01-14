@@ -1,2 +1,3 @@
-# jita
-my practice path
+# Some examples from Yandex.Practicum
+
+Main tree
